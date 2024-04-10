@@ -1,5 +1,3 @@
-# Don't use! This is often broken during testing!
-
 # oref0 autoISF for FreeAPS-X
 
 Algorithm for OpenAPS implementations. To get started with OpenAPS, see the [OpenAPS documentation](http://openaps.readthedocs.org/en/latest/)
